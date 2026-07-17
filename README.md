@@ -10,11 +10,11 @@ The dashboard transforms raw authentication logs into actionable security insigh
 
 ### Global Threat Overview
 
-![Dashboard 1](images/dashboard_overview.png)
+![Dashboard 1](images/mapview.png)
 
 ### Attack Analytics & Timeline
 
-![Dashboard 2](images/dashboard_analysis.png)
+![Dashboard 2](images/attacktime_graph.png)
 
 ---
 
